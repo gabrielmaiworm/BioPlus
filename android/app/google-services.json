@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "27216785204",
+    "firebase_url": "https://bio-plus-2c3cc-default-rtdb.firebaseio.com",
+    "project_id": "bio-plus-2c3cc",
+    "storage_bucket": "bio-plus-2c3cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27216785204:android:d9890edd918843f5c83f61",
+        "android_client_info": {
+          "package_name": "com.flutterflow.bioplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27216785204-upbds705c04jd1dc8j6mbhn8lkec22bb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8RTc45Nzod4r8saF4BUWMkeGTBpHwxyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27216785204-upbds705c04jd1dc8j6mbhn8lkec22bb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "27216785204-da3icmm36abp65jaeq86hn4k9vcvm1bn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.bioplusreserva"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27216785204:android:fdc002eacb48ba6fc83f61",
+        "android_client_info": {
+          "package_name": "com.flutterflow.bioplusreserva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27216785204-upbds705c04jd1dc8j6mbhn8lkec22bb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8RTc45Nzod4r8saF4BUWMkeGTBpHwxyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27216785204-upbds705c04jd1dc8j6mbhn8lkec22bb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "27216785204-da3icmm36abp65jaeq86hn4k9vcvm1bn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.bioplusreserva"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27216785204:android:8e7ec16f2eb846c6c83f61",
+        "android_client_info": {
+          "package_name": "com.flutterflow.moblivrek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27216785204-upbds705c04jd1dc8j6mbhn8lkec22bb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8RTc45Nzod4r8saF4BUWMkeGTBpHwxyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27216785204-upbds705c04jd1dc8j6mbhn8lkec22bb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "27216785204-da3icmm36abp65jaeq86hn4k9vcvm1bn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.bioplusreserva"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
